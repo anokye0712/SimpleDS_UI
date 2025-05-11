@@ -38,7 +38,7 @@ export function Header({ sidebarOpen, setSidebarOpen, openSettings }: HeaderProp
           >
             {sidebarOpen ? <X size={20} /> : <Menu size={20} />}
           </Button>
-          <h1 className="text-xl font-semibold ml-2">RAG Chat</h1>
+          <h1 className="text-xl font-semibold ml-2">Afrakoma<sup>TM</sup></h1>
         </div>
         
         <div className="flex items-center space-x-2">
